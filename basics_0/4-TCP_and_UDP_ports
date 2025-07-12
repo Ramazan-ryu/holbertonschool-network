@@ -6,4 +6,4 @@
 #n numeric
 #p Port
 #u UDP
-netstat -tupn
+netstat -tupln
