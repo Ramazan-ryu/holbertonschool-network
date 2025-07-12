@@ -1,20 +1,2 @@
-Questions:
-
-What is the OSI model?
-
-The OSI model is a conceptual model that characterizes the communication functions of a telecommunication system without regard to their underlying internal structure and technology
-
-How is the OSI model organized?
-
-Physical 
-Data Link
-Network
-Transport 
-Session
-Application
-Presentation
-
-
-Alphabetically
-From the lowest to the highest level
-Randomly
+What is the OSI model?	The OSI model is a conceptual model that characterizes the communication functions of a telecommunication system without regard to their underlying internal structure and technology
+How is the OSI model organized?		Physical Data Link Network Transport Session Presentation Application
