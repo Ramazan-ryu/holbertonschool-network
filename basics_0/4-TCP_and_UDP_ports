@@ -3,7 +3,7 @@
 #That only shows listening sockets
 #That shows the PID and name of the program to which each socket belongs
 #t TCP
-#l Listening
+#n numeric
 #p Port
 #u UDP
-netstat -ltup
+netstat -tupn
