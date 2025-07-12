@@ -4,4 +4,6 @@
 #That shows the PID and name of the program to which each socket belongs
 #t TCP
 #l Listening
-netstat -lt
+#p Port
+#u UDP
+netstat -ltup
