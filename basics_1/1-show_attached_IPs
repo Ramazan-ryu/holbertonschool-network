@@ -7,4 +7,5 @@
 #Obviously, the IPs displayed may be different depending on which machine you are running the script on.
 #Note that we can see our localhost IP :)
 
-awk '{print $1}' /etc/hosts
+#awk '{print $1}' /etc/hosts
+ifconfig | grep 'inet ' | awk '{print $2}'
